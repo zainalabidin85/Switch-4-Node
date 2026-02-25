@@ -1,3 +1,4 @@
+![switch4node overview](/images/switch4node.png)
 # Switch-4-Node
 
 ## Overview
